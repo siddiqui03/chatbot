@@ -1,0 +1,29 @@
+# Dart & Flutter specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+build/
+
+# IDE specific
+.idea/
+*.iml
+
+# Android specific
+local.properties
+
+# iOS specific
+Pods/
+DerivedData/
+*.xcworkspace
+*.xcscheme
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Web specific
+.dart_tool/
+
+# Other
+.metadata
+
+lib/consts.dart

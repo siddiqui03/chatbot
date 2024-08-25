@@ -1,0 +1,39 @@
+name: chatbot
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+2
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  flutter_gemini: ^2.0.5
+  image_picker: ^1.1.2
+  dash_chat_2: ^0.0.21
+  file_picker: ^5.0.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+
+
+  flutter_lints: ^3.0.0
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/gif/chatbot.gif
+  - assets/images/chatbot.png
+  - assets/icons/icon.png
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: "AppIcon"
+  image_path: "assets/icons/icon.png"
+  min_sdk_android: 21
+  remove_alpha_ios: true
+ 
