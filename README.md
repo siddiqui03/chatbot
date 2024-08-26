@@ -1,6 +1,6 @@
 # Zozo Chatbot
 
-Zozo is a Flutter-based chatbot application that leverages the Gemini API for generating chatbot responses. This app features an introductory page and a chat interface where users can interact with Zozo, the chatbot. Users can also send images to the chatbot for description.
+Welcome to Zozo ChatBot, an intelligent and interactive chatbot application built using Flutter and powered by the Gemini Large Language Model (LLM). This app serves as a personal assistant, offering friendly and engaging conversations to users. The chatbot is named "Zozo," and it can respond to user queries, handle image descriptions, and provide personalized assistance.
 
 ## Features
 
@@ -48,3 +48,7 @@ Zozo is a Flutter-based chatbot application that leverages the Gemini API for ge
 
 - **Intro Page**: Launches when the app starts, displaying an introductory GIF and a button to proceed to the chat interface.
 - **Chat Interface**: Allows users to interact with Zozo, send messages, and upload images. Zozo responds based on the input and describes uploaded images.
+
+## Contact
+
+For questions or feedback, please reach out to alizehsiddiqui03@gmail.com.
